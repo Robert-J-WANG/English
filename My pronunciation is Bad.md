@@ -12,9 +12,12 @@
 |  8   |   train    |    [ /treɪn/]     |  火车   |            tree            |      |
 |  9   | afternoon  |  [ /ɑːftə'nuːn/]  |  下午   |      [ /'ɑːftənuːn/]       |      |
 |  10  | helicopter | [/ˈhelɪkɒptə(r)/] | 直升机  |     [/helɪˈkɒptə(r)/]      |      |
+|      |            |                   |         |                            |      |
 |  11  |   again    |     [/ə'gen/]     |         | /ə'gein/] VS gain [/gein/] |      |
 |  12  | adjective  |   [/ˈædʒɪktɪv/]   | 形容词  |       [/ədˈdʒektɪv/]       |      |
 |  13  |   adverb   |    [/ˈædvɜːb/]    |  副词   |        [/ədˈvɜːb/]         |      |
+|  14  |  Engineer  | [/ˌendʒɪˈnɪə(r)/] | 工程师  |      [/ˈendʒɪnɪə(r)/]      |      |
+|  15  | insurance  |  [/ɪnˈʃʊərəns/]   |  保险   |       [/ˈɪnʃʊərəns/]       |      |
 |      |            |                   |         |                            |      |
 |      |            |                   |         |                            |      |
 |      |            |                   |         |                            |      |
@@ -29,5 +32,4 @@
 |      |            |                   |         |                            |      |
 |      |            |                   |         |                            |      |
 |      |            |                   |         |                            |      |
-|      |            |                   |         |                            |      |
-|      |            |                   |         |                            |      |
+
